@@ -12,3 +12,10 @@
 
 # Adding an image
 ![Microsoft logo](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWCZER)
+
+# Adding a task list
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
