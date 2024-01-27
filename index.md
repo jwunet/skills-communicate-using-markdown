@@ -1,3 +1,8 @@
+# Adding headers (using Markdown)
+
+###### any content you like to make it an H6 header
+
+
 # any content you like to make it an H1 header
 ## any content you like to make it an H2 header
 ### any content you like to make it an H3 header
